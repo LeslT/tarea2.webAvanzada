@@ -1,0 +1,68 @@
+h2{
+    padding-top: 30px;
+    color: black;
+    text-align: center;
+}
+h1{
+    padding-top: 30px;
+    color: black;
+    text-align: left;
+}
+p{
+    color: black;
+}
+.list-group{
+    padding-left: 300px;
+   text-align: center;
+   
+}
+#caption{
+    text-align: left;
+ }
+
+.container{
+    padding: 100px 30px 5px 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container2{
+    padding: 100px 30px 5px 30px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#text1{
+    line-height: 12px;
+    text-align: justify;
+}
+#text2{
+    text-align: justify;
+}
+.container3{
+    padding: 100px 30px 5px 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.container4{
+    text-align: center;
+    margin: 0 auto;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.container5{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.container6{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
